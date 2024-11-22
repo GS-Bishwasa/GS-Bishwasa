@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-Hello! 👋 I'm GS Bishwasa, a Physics undergraduate from North Odisha University passionate about exploring the wonders of science and technology. My journey bridges the realms of theoretical DSA and practical coding, as I enjoy solving complex problems and building impactful solutions.
+Hello! 👋 I'm GS Bishwasa, a Physics undergraduate from North Odisha University passionate about exploring the wonders of technology. My journey bridges the realms of theoretical DSA and practical coding, as I enjoy solving complex problems and building impactful solutions.
 
 💡 With strong skills in web development (HTML, CSS, JavaScript, PHP, jQuery, BOOTSTRAP, TailwindCSS, AJAX, Next.js, MERN Stack, Redux, MySql, Python, C++) and a growing curiosity for Machine Learning, I strive to create applications that blend innovation with functionality. From crafting engaging frontends to building robust backends, I love diving into code details to bring ideas to life.
 
