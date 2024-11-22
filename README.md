@@ -53,7 +53,7 @@ Let’s connect and collaborate to make amazing things happen! 🚀
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzeWpiY2huejd3dHlpcmZ4MGxvYWllNm1mNTZhcTB2Z2J4NzF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" align="center" style="width: 50%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzeWpiY2huejd3dHlpcmZ4MGxvYWllNm1mNTZhcTB2Z2J4NzF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" align="center" style="width: 40%" />
 </div>  
 
 
@@ -86,6 +86,7 @@ Let’s connect and collaborate to make amazing things happen! 🚀
 
 
 ## Github Stats  
+<div align="center">  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=GS-Bishwasa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -95,7 +96,7 @@ Let’s connect and collaborate to make amazing things happen! 🚀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Bishwasa&hide_border=true&layout=compact" align="left" style="width: 80%" />
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
   
