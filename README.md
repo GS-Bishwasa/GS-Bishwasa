@@ -36,7 +36,7 @@ Let’s connect and collaborate to make amazing things happen! 🚀
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 - 🔭 I’m currently working on [New Projects](https://github.com/GS-Bishwasa?tab=repositories)  
   
@@ -53,7 +53,7 @@ Let’s connect and collaborate to make amazing things happen! 🚀
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzeWpiY2huejd3dHlpcmZ4MGxvYWllNm1mNTZhcTB2Z2J4NzF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" align="center" style="width: 40%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzeWpiY2huejd3dHlpcmZ4MGxvYWllNm1mNTZhcTB2Z2J4NzF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" align="center" style="width: 50%" />
 </div>  
 
 
