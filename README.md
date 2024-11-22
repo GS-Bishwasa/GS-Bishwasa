@@ -47,13 +47,13 @@ Let’s connect and collaborate to make amazing things happen! 🚀
 - ❓ Ask me about anything related to Web Dev and related technologies  
   
 
-- ⚡ Fun fact: Iam A Coder  
+- ⚡ Fun fact: I am A Coder  
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzeWpiY2huejd3dHlpcmZ4MGxvYWllNm1mNTZhcTB2Z2J4NzF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzeWpiY2huejd3dHlpcmZ4MGxvYWllNm1mNTZhcTB2Z2J4NzF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" align="center" style="width: 50%" />
 </div>  
 
 
