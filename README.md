@@ -62,7 +62,7 @@ Let's connect and build something amazing together! 🚀
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap" width="50"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50"/>
   &nbsp;
@@ -76,7 +76,7 @@ Let's connect and build something amazing together! 🚀
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="Express.js" width="50"/>
   &nbsp;
 
   <!-- Backend / Databases -->
