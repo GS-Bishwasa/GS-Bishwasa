@@ -29,7 +29,7 @@ Hello! 👋 I'm **GS Bishwasa**, a Physics undergraduate from **North Odisha Uni
 - MERN Stack, MySQL, Redux, Next.js, PHP
 - Python, C++, C
 
-I also have a growing curiosity for **Machine Learning**, and I love building both **engaging frontends** and **robust backends**.
+I also have a growing curiosity for **System Design**, and I love building both **engaging frontends** and **robust backends**.
 
 I enjoy learning, coding, collaborating, and constantly evolving.
 
@@ -44,7 +44,7 @@ Let's connect and build something amazing together! 🚀
 </p>
 
 - 🔭 I’m currently working on [new projects](https://github.com/GS-Bishwasa?tab=repositories)  
-- 🌱 Currently learning DSA and AI/ML  
+- 🌱 Currently learning DSA and System Design  
 - ❓ Ask me anything about Web Development and Tech  
 - ⚡ Fun fact: I’m a coder who loves logical challenges  
 
