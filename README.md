@@ -25,9 +25,9 @@
 Hello! 👋 I'm **GS Bishwasa**, a Physics undergraduate from **North Odisha University** passionate about exploring the wonders of technology.  
 
 💡 I specialize in **web development** using technologies like:
-- HTML, CSS, JavaScript, jQuery, Bootstrap, TailwindCSS
-- MERN Stack, MySQL, Redux, Next.js, AJAX, PHP
-- Python, C++
+- HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
+- MERN Stack, MySQL, Redux, Next.js, PHP
+- Python, C++, C
 
 I also have a growing curiosity for **Machine Learning**, and I love building both **engaging frontends** and **robust backends**.
 
