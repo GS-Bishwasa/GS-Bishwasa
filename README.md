@@ -16,6 +16,9 @@
   <a href="https://twitter.com/GSBishwasa" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://my-3-d-portfolio-zeta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-orange?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
 ---
