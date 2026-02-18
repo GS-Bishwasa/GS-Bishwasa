@@ -102,11 +102,12 @@ Let's connect and build something amazing together! 🚀
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GS-Bishwasa&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Bishwasa&hide_border=true&layout=compact" width="44%" />
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GS-Bishwasa&show_icons=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GS-Bishwasa&layout=compact" width="49%" />
 </p>
+
 
 ---
 
